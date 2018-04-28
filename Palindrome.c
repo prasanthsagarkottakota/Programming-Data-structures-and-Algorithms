@@ -1,3 +1,24 @@
+/*Write a program to find whether a number N is Palindrome or not. A number is a palindrome if the reverse of that number is equal to the original number.
+
+Constraints:
+N is a positive number less than 1000000.
+
+Input: A number N
+Output: YES if it is a Palindrome else NO
+
+
+Example 1:
+
+Input: 121
+Output: YES
+
+
+Example 2:
+
+Input: 123
+Output: NO
+*/
+
 #include <stdio.h>
 int main()
 {
